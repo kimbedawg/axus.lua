@@ -1,0 +1,5 @@
+return {
+    --[[ [Da Hood](https://www.roblox.com/games/17723797487/METAL-PACK-Dee-Hood) ]]--
+    [17723797487] = "(5cc74c)", -- Regular
+    [17723797487] = "(5cc74c)", -- Macro
+}
